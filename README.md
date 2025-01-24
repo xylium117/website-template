@@ -25,16 +25,16 @@ This is a website template for commercial events and occasions.
 - [x] *The Dimensions are suggested, whereas the ratios must be followed else inconsistencies in image compressions, quality and dimensions would arise.*
 - [x] *A high-res image cropped in ratio is highly suggested and intuitive.*
 
-### Libraries
-1. [Accordion.js](https://michu2k.github.io/Accordion/)
-2. [Bootstrap](https://getbootstrap.com/)
-3. [jQuery.js (version 2.1.0)](https://jquery.com/)
-4. [Owl Carousel.js](https://owlcarousel2.github.io/OwlCarousel2/)
-5. [Popper.js](https://floating-ui.com/?utm_source=popper.js.org)
-6. [Quantity.js](https://www.npmjs.com/package/js-quantities)
-7. [ScrollReveal.js](https://scrollrevealjs.org/)
-8. [Waypoints.js](http://imakewebthings.com/waypoints/)
-9. [FontAwesome](https://fontawesome.com/)
+### Libraries Implemented
+ - [x] [Accordion.js](https://michu2k.github.io/Accordion/)
+ - [x] [Bootstrap](https://getbootstrap.com/)
+ - [x] [jQuery.js (version 2.1.0)](https://jquery.com/)
+ - [x] [Owl Carousel.js](https://owlcarousel2.github.io/OwlCarousel2/)
+ - [x] [Popper.js](https://floating-ui.com/?utm_source=popper.js.org)
+ - [x] [Quantity.js](https://www.npmjs.com/package/js-quantities)
+ - [ ] [ScrollReveal.js](https://scrollrevealjs.org/)
+ - [ ] [Waypoints.js](http://imakewebthings.com/waypoints/)
+ - [x] [FontAwesome](https://fontawesome.com/)
 
 ***Map Generated from Snazzy Maps [@SnazzyMaps](https://snazzymaps.com/build-a-map)***
 
